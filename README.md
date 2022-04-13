@@ -13,7 +13,7 @@ El IoT es un factor Primordial para BMS (Building Management System), si las emp
 - Monitoreo de consumo de energía eléctrica y gestión operativa de equipos para generar ahorro.
 - Monitoreo y gestión remota de suministro de agua.
 
-# Cómo lo hacemos?
+# ¿Cómo lo hacemos?
 
 **Recolección de datos:** En esta etapa intervienen todos los dispositivos para recolectan datos mediante distintos tipos de sensores. En otros casos estos datos ya están disponibles.
 
